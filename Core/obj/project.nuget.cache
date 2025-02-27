@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Q9G2yQ7joXOlGeEtahG4iElFMipP6816ULVuOtudPCFblSF2HHW9/FcJ8WOCqhr3xQkjyAv3RZiIwWDGLVeBQ==",
+  "dgSpecHash": "roUw26ZCRQmZbXeqBVdnBvx2s/07s9Fh+n+uc7+gCVJSOizhdbXO9oLHy6+OR9zsOD97+ppGtmv551WCK/UwTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kamal\\Desktop\\University API\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kamal\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

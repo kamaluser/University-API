@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\University API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\university api\\data\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15149C45-BDF1-4B73-9CC4-058D89BDEAC2}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +63,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Service\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:22:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "Service\\Implementations\\GroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:22:42.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:22:25.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:21:57.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:13:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:11:41.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:41:34.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:40:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:40:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Data\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:36:38.758Z",
+              "EditorCaption": ""
             }
           ]
         },
