@@ -177,3 +177,5 @@ C:\Users\kamal\Desktop\University API\University API\obj\Debug\net8.0\refint\Uni
 C:\Users\kamal\Desktop\University API\University API\obj\Debug\net8.0\University API.pdb
 C:\Users\kamal\Desktop\University API\University API\obj\Debug\net8.0\University API.genruntimeconfig.cache
 C:\Users\kamal\Desktop\University API\University API\obj\Debug\net8.0\ref\University API.dll
+C:\Users\kamal\Desktop\University API\University API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kamal\Desktop\University API\University API\obj\Debug\net8.0\University API.sourcelink.json

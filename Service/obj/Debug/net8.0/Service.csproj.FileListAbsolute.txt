@@ -17,3 +17,4 @@ C:\Users\kamal\Desktop\University API\Service\obj\Debug\net8.0\refint\Service.dl
 C:\Users\kamal\Desktop\University API\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\kamal\Desktop\University API\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
 C:\Users\kamal\Desktop\University API\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\kamal\Desktop\University API\Service\obj\Debug\net8.0\Service.sourcelink.json
