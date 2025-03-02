@@ -47,7 +47,7 @@ builder.Services.AddValidatorsFromAssemblyContaining<GroupCreateDtoValidator>();
 builder.Services.AddFluentValidationRulesToSwagger();
 
 builder.Services.AddScoped<IGroupService, GroupService>();
-//builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<IStudentService, StudentService>();
 builder.Services.AddScoped<IGroupRepository, GroupRepository>();
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 

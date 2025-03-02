@@ -31,7 +31,7 @@ namespace University_API.Controllers
             return StatusCode(200, _groupService.GetAllByPage(search, page, size));
         }
 
-        [HttpGet("all")]
+        [HttpGet("all-groups")]
         public ActionResult<List<GroupGetDto>> GetAllGroups(string? search = null)
         {
             return StatusCode(200, _groupService.GetAll(search));

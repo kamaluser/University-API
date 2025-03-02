@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\University API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|c:\\users\\kamal\\desktop\\university api\\university api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|solutionrelative:university api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\profiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\profiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|c:\\users\\kamal\\desktop\\university api\\university api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|solutionrelative:university api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|c:\\users\\kamal\\desktop\\university api\\university api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBBD922-36C7-42BB-8940-70DEE8D012BB}|University API\\University API.csproj|solutionrelative:university api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\university api\\service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96F23D-4412-4F29-9B2D-6A4A93AC99EE}|Service\\Service.csproj|solutionrelative:service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MapProfile.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Profiles\\MapProfile.cs",
-              "RelativeDocumentMoniker": "Service\\Profiles\\MapProfile.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Profiles\\MapProfile.cs",
-              "RelativeToolTip": "Service\\Profiles\\MapProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAvAAAA",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "University API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "University API\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T20:19:17.087Z",
+              "WhenOpened": "2025-03-02T16:32:13.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Service\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:26:40.489Z",
               "EditorCaption": ""
             },
             {
@@ -55,41 +68,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GroupsController.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\GroupsController.cs",
-              "RelativeDocumentMoniker": "University API\\Controllers\\GroupsController.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\GroupsController.cs",
-              "RelativeToolTip": "University API\\Controllers\\GroupsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T20:12:48.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Program.cs",
-              "RelativeDocumentMoniker": "University API\\Program.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Program.cs",
-              "RelativeToolTip": "University API\\Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAIAwwEgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:50:00.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GroupService.cs",
               "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\GroupService.cs",
               "RelativeDocumentMoniker": "Service\\Implementations\\GroupService.cs",
               "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\Service\\Implementations\\GroupService.cs",
               "RelativeToolTip": "Service\\Implementations\\GroupService.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAQwEoAAAANAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T19:48:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "University API\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\University API\\University API\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "University API\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:12:48.115Z",
               "EditorCaption": ""
             }
           ]
